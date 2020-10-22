@@ -21,7 +21,7 @@ body{
     width: 500%;
     background: url(../image/road.jpg);
     height: 200px;
-    animation: road 5s linear infinite;
+    animation: road 10s linear infinite;
 }
 
 @keyframes road {
