@@ -15,7 +15,6 @@ body{
 }
 
 .road{
-    margin: 0;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -52,7 +51,7 @@ body{
     bottom: 100px;
     left: 10%;
     width: 500px;
-    animation: car 4s linear infinite;
+    animation: car 3s linear infinite;
 }
 
 .car-image{
@@ -75,7 +74,7 @@ body{
 .wheel{
     position: absolute;
     width: 80px;
-    animation: wheel 2s linear infinite;
+    animation: wheel 3s linear infinite;
     bottom: 15px;
 }
 
