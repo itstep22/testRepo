@@ -37,7 +37,7 @@ body{
     left: 0;
     width: 500%;
     height: 250px;
-    background: url(../image/city.png);
+    /* background: url(../image/city.png); */
     animation: city 10s linear infinite;
 }
 
